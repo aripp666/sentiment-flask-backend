@@ -1,0 +1,7 @@
+flask
+flask-cors
+GoogleNews
+transformers
+torch
+pandas
+openpyxl
